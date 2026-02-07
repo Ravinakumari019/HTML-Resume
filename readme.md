@@ -5,4 +5,4 @@ Focused on clean structure, accessibility, and proper webpage hierarchy using he
 
 This project serves as a simple digital resume for recruiters and learning semantic web development.
 
-ScreenShot:(https://drive.google.com/file/d/1doqaKteBUqZCBh8WtTC5dj4j43qJQ2hN/view?usp=sharing)
+ScreenShot:(https://drive.google.com/drive/folders/1H9w91cJ78n0zTy2F1dVUHUrSAluJlLtd?usp=sharing)
